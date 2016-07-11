@@ -3,17 +3,22 @@ Implementations of a few algorithms and data structures in java for fun.
 
 Completed
 ---
-
+- Basic Sorting
+  - Bubble Sort
 
 TODO
 ---
-- Karatsuba Multiplication
 - Basic Sorting
-- Rabin-Miller primality test
-- Sieve of Eratosthenes for prime numbers
 - Binary Search
-- Counting Inversions in an array
-- Selecting ith order statistic in an array
+- Binary Search Tree
+- Stack ADT (with example problems)
+  - String Reverse
+  - Parenthesis Matching
+  - Infix to Postfix
+- Heap datastructure
+	- Max heaps
+	- Min heaps (priority queue)
+	- Heapsort
 - Graph datastructure (directed & undirected)
 - Graph Algos
     - Topological Sorting
@@ -28,19 +33,15 @@ TODO
     - Bellman Ford
     - Floyd Warshall
     - Johnson's Algorithm
-- Heap datastructure
-	- Max heaps
-	- Min heaps (priority queue)
-	- Heapsort
-- Job Scheduling
-- [UnionFind](http://en.wikipedia.org/wiki/Disjoint-set_data_structure) Data Structure
-- Binary Search Tree
-- Kandane's Algorithm
-- Knapsack Problem (0/1 and unbounded)
 - Longest Increasing Subsequence
 - Longest Common Subsequence
+- Knapsack Problem (0/1 and unbounded)
 - Prefix Tries
-- Stack ADT (with example problems)
-  - String Reverse
-  - Parenthesis Matching
-  - Infix to Postfix
+- Job Scheduling
+- Karatsuba Multiplication
+- Rabin-Miller primality test
+- Sieve of Eratosthenes for prime numbers
+- Counting Inversions in an array
+- Selecting ith order statistic in an array
+- [UnionFind](http://en.wikipedia.org/wiki/Disjoint-set_data_structure) Data Structure
+- Kadane's Algorithm
