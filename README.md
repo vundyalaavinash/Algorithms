@@ -5,6 +5,9 @@ Completed
 ---
 - Basic Sorting
   - Bubble Sort
+- Search
+  - Binary Search
+  - Linear Search
 
 TODO
 ---
